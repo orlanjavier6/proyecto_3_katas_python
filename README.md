@@ -11,10 +11,14 @@ La colección abarca desde la manipulación básica de estructuras de datos y l�
 El repositorio está organizado para facilitar la inspección del código y la ejecución del entorno:
 
 proyecto_3_katas_python/
+
 ├── Enunciado Data Project_Python.Lógica.pdf  # Documento original con las directrices y enunciados
+
 ├── Proyecto Lógica Katas Python.ipynb       # Jupyter Notebook principal con las 41 katas resueltas y ejecutadas
+
 ├── Proyecto_Lógica_Katas_Python.py          # Script de Python puro ejecutable en consola
-└── README.md                                # Descripción general del proyecto y documentación
+
+├── README.md                                # Descripción general del proyecto y documentación
 
 ---
 
