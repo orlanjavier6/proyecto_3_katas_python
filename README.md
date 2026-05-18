@@ -87,3 +87,5 @@ Si encuentras una solución alternativa más eficiente para alguna Kata (*refact
 
 ## Autor
 **[Orlan Javier Parra Parra]**
+
+[@orlanjavier6](https://github.com/orlanjavier6)
