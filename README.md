@@ -1,4 +1,4 @@
-# Proyecto 3: Lógica y Programación Funcional – Katas Python
+# Proyecto 3: DataProject: Lógica. Katas Python
 
 Este proyecto forma parte del módulo de **Programación con Python** del Máster en Data & Analytics. 
 Consiste en la resolución y documentación de un conjunto de **41 ejercicios prácticos (Katas)** enfocados en el desarrollo del pensamiento algorítmico, el paradigma de la programación funcional y la gestión robusta de datos e imprevistos en tiempo de ejecución.
