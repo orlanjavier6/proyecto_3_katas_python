@@ -1,7 +1,7 @@
 # Proyecto 3: DataProject: Lógica. Katas Python
 
 Este proyecto forma parte del módulo de **Programación con Python** del Máster en Data & Analytics. 
-Consiste en la resolución y documentación de un conjunto de **41 ejercicios prácticos (Katas)** enfocados en el desarrollo del pensamiento algorítmico, el paradigma de la programación funcional y la gestión robusta de datos e imprevistos en tiempo de ejecución.
+Consiste en la resolución y documentación de un conjunto de **ejercicios prácticos (Katas)** enfocados en el desarrollo del pensamiento algorítmico, el paradigma de la programación funcional y la gestión robusta de datos e imprevistos en tiempo de ejecución.
 
 La colección abarca desde la manipulación básica de estructuras de datos y lógica condicional, hasta conceptos avanzados como la recursividad, el uso de funciones de orden superior (`map`, `filter`, `reduce`), expresiones lambda y la Programación Orientada a Objetos (POO).
 
@@ -15,8 +15,6 @@ proyecto_3_katas_python/
 ├── EnunciadoDataProjectPython.pdf       # Documento original con las directrices y enunciados
 
 ├── Proyecto Lógica Katas Python.ipynb       # Jupyter Notebook principal con las 41 katas resueltas y ejecutadas
-
-├── Proyecto_Lógica_Katas_Python.py          # Script de Python puro ejecutable en consola
 
 ├── README.md                                # Descripción general del proyecto y documentación
 
